@@ -6,12 +6,17 @@ ESP: Es una aplicación web que muestra conjunto de datos de anuncios de venta d
 ## Herramientas
 
 Para la creación de esta aplicación, se utilizaron los siguientes paquetes para el funcionamiento del entorno virtual llamado "-vehicles_env-"
+
   * Pandas
   * streamlit
   * plotly-expresss
+    
 Así como se utilizó el siguiente *dataset* en donde se encuentran los datos del fabricante, y las ventas del mismo:
+
   * vehicles_us.csv
+    
 Para el desarrollo de cuadro de mandos se usó de este archivo:
+
   *app.py
 
 # Car-sales-project
@@ -21,10 +26,15 @@ ENG: This is a web app that shows a data conjoint about car sales advertising, w
 ## Tools
 
 About the app development, those libraries were used for the working of the virtual environment called "-vehicles_env-"
+
   * Pandas
   * streamlit
   * plotly-expresss
+    
 Also, the *dataset* that was used which there are the main data for the project
+
   * vehicles_us.csv
+    
 For the developing of the chart an archive was used:
+
   *app.py
